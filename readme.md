@@ -2,7 +2,7 @@
 
 This project get estimate the number of details in the photo. Every detail has a round hole.
 
-![readme_img0](image/readme_img0.jpg)
+![readme_img0](images/readme_img0.jpg)
 
 ## Software
 1. Python 3.9.7
@@ -16,4 +16,4 @@ Use string with parameters
 
 ## Result of execution
 
-![readme_img1](image/readme_img1.jpg)
+![readme_img1](images/readme_img1.jpg)
