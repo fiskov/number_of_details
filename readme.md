@@ -1,6 +1,6 @@
-# Number of details with Python OpenCV
+# Number of parts with Python OpenCV
 
-This project get estimate the number of details in the photo. Every detail has a round hole.
+This project get estimate the number of parts in the photo. Every part has a round hole.
 
 ![readme_img0](images/readme_img0.jpg)
 
